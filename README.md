@@ -1,6 +1,6 @@
 # Description 
 
-Input
+
 The program will take as input a specification of a puzzle and a starting state and will
 generate as output a set of clauses to be satisfied.
 The format of the input contains the following elements:
