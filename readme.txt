@@ -25,4 +25,3 @@ python Puzzle.py
 	To read data from input.txt
 	write data to output.txt, propositions.txt
 ```
-
